@@ -94,7 +94,7 @@ img {
   border-radius: 2px;
   background-color: var(--accent-color);
   display: block;
-  bottom: 0px;
+  bottom: -2px;
 }
 .nav-button.current {
   background-color: var(--accent-color);
